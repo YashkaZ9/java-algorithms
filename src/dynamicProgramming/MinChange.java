@@ -1,6 +1,4 @@
-package DynamicProgramming;
-
-import java.util.Arrays;
+package dynamicProgramming;
 
 public class MinChange {
 

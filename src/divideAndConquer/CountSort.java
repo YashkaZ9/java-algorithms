@@ -1,4 +1,4 @@
-package DivideAndConqureAlgorithms;
+package divideAndConquer;
 
 import java.io.*;
 import java.util.Arrays;

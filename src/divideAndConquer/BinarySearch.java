@@ -1,4 +1,4 @@
-package DivideAndConqureAlgorithms;
+package divideAndConquer;
 
 import java.io.File;
 import java.io.FileNotFoundException;

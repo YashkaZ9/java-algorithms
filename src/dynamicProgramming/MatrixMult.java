@@ -1,4 +1,4 @@
-package DynamicProgramming;
+package dynamicProgramming;
 
 public class MatrixMult {
     public static void multiplyMatrix(int[][] a, int[][] b) {

@@ -1,6 +1,5 @@
-package DivideAndConqureAlgorithms;
+package divideAndConquer;
 
-import java.util.Arrays;
 import java.util.Random;
 
 public class HeapSort {
